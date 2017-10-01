@@ -1,4 +1,4 @@
-FROM ruby:2.2.8
+FROM ruby:2.3.5-slim
 
 USER root
 
