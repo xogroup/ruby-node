@@ -7,4 +7,3 @@ It was originally created to support the dockerized deployment of TheKnot Accoun
 ## Dockerfile
 
 Dockerfile on [Github](https://github.com/xogroup/ruby-node/blob/master/Dockerfile)
-
